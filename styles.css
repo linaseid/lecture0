@@ -1,0 +1,22 @@
+h1 {
+    text-align:center;
+    color: #184e67;
+}
+h2 {
+    text-align:center;
+    color: #671b19;
+}
+
+p {
+    color: #452478;
+}
+table {
+    border: 2px solid #452478;
+    border-collapse: collapse;
+    width: 50%;
+}
+td, th {
+    border: 1px solid #781f70;
+    padding: 15px;
+
+}
